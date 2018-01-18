@@ -1,0 +1,5 @@
+docopt
+netaddr
+okaara
+pexpect
+prettytable
